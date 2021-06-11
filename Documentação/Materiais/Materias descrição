@@ -1,0 +1,177 @@
+# Materiais Utilizados:
+
+# Módulo NodeMcu ESP-12E WiFi ESP8266 CP2102
+
+# Descrição do Material
+
+O Módulo NodeMCU ESP-12E WiFi ESP8266 CP2102 é uma placa de desenvolvimento equipada com CPU ESP8266 e Interface USB-Serial CP2102. A programação pode ser feita em LUA ou usando a IDE do Arduino através de um cabo micro-usb. Saravati(2021)
+    O NodeMCU ESP-12E WiFi ESP8266 CP2102, é uma placa ideal para desenvolvedores de plataformas móveis, para projetos que exigem economia de espaço e energia. Ele fornece capacidade inigualável de incorporar recursos Wi-Fi em outros sistemas ou para aplicações independentes, com o menor custo e o mínimo de necessidade de espaço, é uma solução extremamente acessível ideal para aplicações IoT diversas. Saravati(2021).
+
+# Especificações Técnicas
+
+ESP8266 ESP-12E
+MCU integrado de 32 bits de baixa potência
+Conversor analógico digital (ADC) 10 bits integrado
+SPI Flash 4MB
+Clock: 80MHz à 160MHz
+Wireless padrão 802.11 b/g/n
+Antena Integrada
+Conector Micro-USB
+Interface usb-serial: CP2102
+Modos de operação: STA/AP/STA+AP
+Suporta 5 conexões TCP/IP
+Portas GPIO: 11
+GPIO com funções de PWM, I2C, SPI, etc
+Tensão de operação: 4,5 ~ 9V
+Taxa de transferência: 110-460800bps
+Suporta Upgrade remoto de firmware
+Tamanho: 50mm Largura x 27mm Profundidade x 7mm Altura
+
+![alt text](https://github.com/GuipiodeCarrato/Smartgraos/blob/5f6f5e1d8953b4c351a666ce63adb13e45bfebf1/Imagens/Componentes/NodeMCU.png)
+
+# Cabos Jumper Premium Macho / Macho
+
+# Descrição do Material
+Os Cabos Jumper Macho/Macho são indispensáveis para qualquer projeto de eletrônica, robótica e automação em geral. Muito utilizado em Protoboards ou Breadboards, também conhecidas como Matriz de contatos ou Placa de Ensaios, os Cabos Jumper são ideais para prototipagem e testes práticos. Saravati(2021).
+  Os Cabos Jumper facilitam muito nas ligações entre os componentes eletrônicos, microcontroladores, Shields, Arduino e Raspberry, seja para seus projetos eletrônicos pessoais, trabalhos de faculdade ou cursos técnicos. Saravati(2021).
+
+# Especificações Técnicas
+
+Cabos Jumper Premium Macho/Macho 10cm
+Modelo: Jumper Macho / Macho
+10cm de comprimento
+Terminais/Conectores: Dupont, padrão 2,54mm (Pino Macho nas duas pontas)
+Secção do cabo condutor: 24 AWG - 0,2mm²
+Material: Termoplásticos/Cobre/Estanho
+Cor: Diversas
+Tamanho: 100mm Largura x 65mm Profundidade x 5mm Altura 
+
+![alt text](https://github.com/GuipiodeCarrato/Smartgraos/blob/a763933bbea3d64b6b3f566f250bb1f23057896d/Imagens/Jumpers%20Macho-Macho.png)
+
+# Cabo Micro USB 1,2m Multilaser
+
+# Descrição do Material
+
+Cabo Micro USB 1,2m é ideal para conexão do seu smartphone, câmera digital, tablet, Arduino, Raspberry e outros dispositivos. Ideal para programação e transferência de dados entre o computador e dispositivos com conexão micro USB.(Figura 9). Filipeflop(2021).
+
+# Especificações Técnicas
+
+Cabo Micro USB
+Marca: Multilaser
+Conectores: USB x Micro USB
+Comprimento: 1,2m
+Peso: 30g
+
+
+![alt text](Imagens/Componentes/Cabo_Micro_USB_2.1.png)
+
+# Protoboard 830 Pontos MB-102 Solderless Breadboard
+
+# Descrição do Material
+
+A Protoboard 830 pontos é ideal para montagem de projetos em aulas de laboratório e robótica, facilita o desenvolvimento e criação de circuitos eletrônicos para futuros projetos. Saravati(2021).
+A Protoboard ou Breadboard, também conhecida como Placa de Ensaio ou Matriz de Contato, é um módulo com furos e conexões condutoras para montagem e teste de circuitos eletrônicos. A grande vantagem da placa de ensaio na montagem de circuitos eletrônicos é a facilidade de inserção e remoção dos componentes, uma vez que não há a necessidade de soldar. Saravati(2021).
+
+# Especificações Técnicas
+
+Protoboard 830 Pontos MB-102 Solderless Breadboard
+Modelo: MB-102
+Ideal para protótipos de circuitos eletrônicos para futuros projetos
+Base adesivada
+Furo padrão 0.8mm
+Corrente máxima: 5A
+Tensão máxima: 300V
+Composição: ABS
+Tamanho: 162mm Comprimento x 55mm Largura x 10mm de Altura
+Peso: 72g
+
+![alt text](Imagens/Componentes/Protoboard.png)
+
+# Display LCD 1602A Backlight Azul
+
+# Descrição do Material
+
+O Display LCD 1602A Backlight Azul é uma tela de cristal líquido padrão industrial 16x2 com fundo azul iluminado, capaz de exibir 32 caracteres, sendo 16 em cada linha. O Display LCD 1602 é muito versátil e indispensável para qualquer dispositivo ou projeto eletrônico que necessite exibir informações e dados diversos Saravati(2021).
+
+# Especificações Técnicas
+
+Display LCD 1602A Backlight Azul
+Fundo Azul Iluminado
+Cor dos Caracteres: Branco
+16x2 (16 Caracteres por 2 Linhas)
+32 Caracteres no total
+Área de visualização: 64,5mm x 14,5mm
+Controlador: HD44780
+Tensão: 5V
+Composição: Placa de Fenolite, Placas de Cristal e Componentes Eletrônicos
+Tamanho: 80mm Largura x 36,5mm de Comprimento x 11mm de Altura
+Peso: 29g
+
+![alt text](https://github.com/GuipiodeCarrato/Smartgraos/blob/6aa3eccf04e57392f0fda4b635ee35d88f5e1878/Imagens/Componentes/Display%20LCD.png)
+
+# Sensor de Temperatura e Umidade DHT22 Digital
+
+O Sensor de Temperatura e Umidade Digital DHT22 é um pequeno dispositivo sensor de umidade e temperatura tipo capacitivo com saída digital calibrada. O Sensor de Temperatura e Umidade Digital DHT22 pode ser utilizado com microcontroladores como Arduino, Raspberry Pi, PIC, ARM, etc, em projetos que utilizem detecção de umidade e temperatura, controle de ambientes climatizados, etc. Saravati(2021).
+
+# Especificações Técnicas
+
+Sensor de Temperatura e Umidade Digital DHT22
+Modelo: Sensor DHT22 / AM2302
+Tensão de Operação: 3.3V ~ 5.5V DC
+Pinagem: VDD - Positivo, SDA - Saída Serial Data, NC (Vazio), GND - Negativo
+Faixa de medição de umidade: 20 a 99% UR
+Faixa de medição de temperatura: -40º a 80ºC
+Precisão de umidade de medição: ± 5,0% UR
+Precisão de medição de temperatura: ± 2.0 ºC
+Temperatura de operação:  -30°C a 70°C
+Resolução: Temperatura e Umidade 16-bit
+Tamanho: 23mm Largura x 12mm Profundidade x 5mm Altura 
+Peso: 5g
+
+
+![alt text](Imagens/Componentes/Sensor_de_Temperatura_e_umidade.jpg)
+
+# Potenciômetro Linear 10K
+
+# Descrição do Material
+
+O potenciômetro é um componente essencial para prototipagem, com terminais que podem ser encaixados em uma protoboard. O Potenciômetro Linear 10K é um componente muito utilizado em circuitos eletrônicos seja para regular a tensão de uma fonte, o contraste de um display LCD ou como um simples divisor de tensão.(Figura 7). Filipeflop(2021).
+
+# Especificações Técnicas
+
+Resistência: 10Kohms
+Variação: Linear
+Comprimento do eixo: 15 mm
+Diâmetro do eixo: 6 mm
+Profundidade da base: 8,5 mm
+Diâmetro da base: 16 mm
+Peso: 6g
+
+![alt text](Imagens/Componentes/potenciometro-linear-10k.jpg)
+
+# Cabos Jumper Premium Macho / Fêmea 20cm 40 vias
+
+# Descrição do Material
+
+Os Cabos Jumper Macho/Fêmea são indispensáveis para qualquer projeto de eletrônica, robótica e automação em geral. Muito utilizado em Protoboards ou Breadboards, também conhecidas como Matriz de contatos ou Placa de Ensaios, os Cabos Jumper são ideais para prototipagem e testes práticos.
+    Os Cabos Jumper facilitam muito nas ligações entre os componentes eletrônicos, microcontroladores, Shields, Arduino e Raspberry, seja para seus projetos eletrônicos pessoais, trabalhos de faculdade ou cursos técnicos.
+    Os cabos possuem 10 cores diferentes, o que ajuda na hora de identificar seus circuitos no projeto, os terminais são isolados e possuem medida padrão 2,54mm, no kit com 40 unidades eles vêm grudados em paralelo, mas podem ser facilmente destacados para uso individual.
+    Os Cabos Jumper são ideais para tornar seus projetos bem organizados e atraentes, além de poupar tempo e facilitar o trabalho de montagem.(Figura 8). Saravati(2021).
+
+
+# Especificações Técnicas
+
+Cabos Jumper Premium Macho/Fêmea 20cm 40 vias
+Modelo: Jumper Macho / Fêmea
+Marca: OEM
+20 cm de comprimento
+40 vias destacáveis para uso individual
+Terminais/Conectores: Dupont, padrão 2,54mm (Pino Macho em uma das extremidades e Pino Fêmea na outra ponta)
+Secção do cabo condutor: 24 AWG - 0,2mm²
+Cores: Marrom, Vermelho, Laranja, Amarelo, Verde, Azul, Violeta, Cinza, Branco e Preto
+Material: Termoplásticos/Cobre/Estanho
+Origem: China
+Tamanho: 200mm Largura x 65mm Profundidade x 5mm Altura 
+Peso: 35g
+
+![alt text](https://github.com/GuipiodeCarrato/Smartgraos/blob/a763933bbea3d64b6b3f566f250bb1f23057896d/Imagens/Jumpers%20Macho-Macho.png)
