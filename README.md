@@ -120,7 +120,7 @@ O Sensor de Temperatura e Umidade Digital DHT11 é um pequeno sensor tipo resist
 
 # Especificações Técnicas
 
-Sensor de Temperatura e Umidade Digital DHT11
+Sensor de Temperatura e Umidade Digital DHT22
 Modelo: DHT11
 Tensão de Operação: 3V ~ 5V DC
 Pinagem: VCC - Positivo, GND - Negativo, OUT - Saída Serial
