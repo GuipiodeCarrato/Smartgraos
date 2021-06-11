@@ -133,4 +133,4 @@ Resolução: Temperatura e Umidade 16-bit
 Tamanho: 23mm Largura x 12mm Profundidade x 5mm Altura 
 Peso: 5g
 
-![alt text](Imagens/Sensor_de_temperatura.png)
+![alt text](Imagens/Componentes/Sensor_de_Temperatura_e_umidade.jpg)
