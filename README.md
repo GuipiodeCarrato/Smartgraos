@@ -88,7 +88,7 @@ Composição: ABS
 Tamanho: 162mm Comprimento x 55mm Largura x 10mm de Altura
 Peso: 72g
 
-![alt text](Imagens/Protoboard.png)
+![alt text](Imagens/Componentes/Protoboard.png)
 
 # Display LCD 1602A Backlight Azul
 
@@ -110,7 +110,7 @@ Composição: Placa de Fenolite, Placas de Cristal e Componentes Eletrônicos
 Tamanho: 80mm Largura x 36,5mm de Comprimento x 11mm de Altura
 Peso: 29g
 
-![alt text](https://github.com/GuipiodeCarrato/Smartgraos/blob/a763933bbea3d64b6b3f566f250bb1f23057896d/Imagens/Display%20LCD.png)
+![alt text](https://github.com/GuipiodeCarrato/Smartgraos/blob/6aa3eccf04e57392f0fda4b635ee35d88f5e1878/Imagens/Componentes/Display%20LCD.png)
 
 # Sensor de Temperatura DHT11 Digital
 
