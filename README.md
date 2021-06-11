@@ -116,7 +116,8 @@ Peso: 29g
 
 O Sensor de Temperatura e Umidade Digital DHT22 é um pequeno dispositivo sensor de umidade e temperatura tipo capacitivo com saída digital calibrada. O Sensor de Temperatura e Umidade Digital DHT22 pode ser utilizado com microcontroladores como Arduino, Raspberry Pi, PIC, ARM, etc, em projetos que utilizem detecção de umidade e temperatura, controle de ambientes climatizados, etc. Saravati(2021).
 
-Especificações Técnicas
+# Especificações Técnicas
+
 Sensor de Temperatura e Umidade Digital DHT22
 Modelo: Sensor DHT22 / AM2302
 Tensão de Operação: 3.3V ~ 5.5V DC
