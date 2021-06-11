@@ -133,3 +133,19 @@ Peso: 5g
 
 
 ![alt text](Imagens/Componentes/Sensor_de_Temperatura_e_umidade.jpg)
+
+Potenciômetro Linear 10K
+
+Descrição do Material
+O potenciômetro é um componente essencial para prototipagem, com terminais que podem ser encaixados em uma protoboard. O Potenciômetro Linear 10K é um componente muito utilizado em circuitos eletrônicos seja para regular a tensão de uma fonte, o contraste de um display LCD ou como um simples divisor de tensão.(Figura 7). Filipeflop(2021).
+
+Especificações Técnicas
+Resistência: 10Kohms
+Variação: Linear
+Comprimento do eixo: 15 mm
+Diâmetro do eixo: 6 mm
+Profundidade da base: 8,5 mm
+Diâmetro da base: 16 mm
+Peso: 6g
+
+![alt text](Imagens/Componentes/potenciometro-linear-10k.jpg)
