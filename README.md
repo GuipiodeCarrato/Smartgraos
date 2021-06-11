@@ -134,12 +134,14 @@ Peso: 5g
 
 ![alt text](Imagens/Componentes/Sensor_de_Temperatura_e_umidade.jpg)
 
-Potenciômetro Linear 10K
+# Potenciômetro Linear 10K
 
-Descrição do Material
+# Descrição do Material
+
 O potenciômetro é um componente essencial para prototipagem, com terminais que podem ser encaixados em uma protoboard. O Potenciômetro Linear 10K é um componente muito utilizado em circuitos eletrônicos seja para regular a tensão de uma fonte, o contraste de um display LCD ou como um simples divisor de tensão.(Figura 7). Filipeflop(2021).
 
-Especificações Técnicas
+# Especificações Técnicas
+
 Resistência: 10Kohms
 Variação: Linear
 Comprimento do eixo: 15 mm
@@ -149,3 +151,30 @@ Diâmetro da base: 16 mm
 Peso: 6g
 
 ![alt text](Imagens/Componentes/potenciometro-linear-10k.jpg)
+
+Cabos Jumper Premium Macho / Fêmea 20cm 40 vias
+
+# Descrição do Material
+
+Os Cabos Jumper Macho/Fêmea são indispensáveis para qualquer projeto de eletrônica, robótica e automação em geral. Muito utilizado em Protoboards ou Breadboards, também conhecidas como Matriz de contatos ou Placa de Ensaios, os Cabos Jumper são ideais para prototipagem e testes práticos.
+    Os Cabos Jumper facilitam muito nas ligações entre os componentes eletrônicos, microcontroladores, Shields, Arduino e Raspberry, seja para seus projetos eletrônicos pessoais, trabalhos de faculdade ou cursos técnicos.
+    Os cabos possuem 10 cores diferentes, o que ajuda na hora de identificar seus circuitos no projeto, os terminais são isolados e possuem medida padrão 2,54mm, no kit com 40 unidades eles vêm grudados em paralelo, mas podem ser facilmente destacados para uso individual.
+    Os Cabos Jumper são ideais para tornar seus projetos bem organizados e atraentes, além de poupar tempo e facilitar o trabalho de montagem.(Figura 8). Saravati(2021).
+
+
+# Especificações Técnicas
+
+Cabos Jumper Premium Macho/Fêmea 20cm 40 vias
+Modelo: Jumper Macho / Fêmea
+Marca: OEM
+20 cm de comprimento
+40 vias destacáveis para uso individual
+Terminais/Conectores: Dupont, padrão 2,54mm (Pino Macho em uma das extremidades e Pino Fêmea na outra ponta)
+Secção do cabo condutor: 24 AWG - 0,2mm²
+Cores: Marrom, Vermelho, Laranja, Amarelo, Verde, Azul, Violeta, Cinza, Branco e Preto
+Material: Termoplásticos/Cobre/Estanho
+Origem: China
+Tamanho: 200mm Largura x 65mm Profundidade x 5mm Altura 
+Peso: 35g
+
+![alt text](https://github.com/GuipiodeCarrato/Smartgraos/blob/a763933bbea3d64b6b3f566f250bb1f23057896d/Imagens/Jumpers%20Macho-Macho.png)
