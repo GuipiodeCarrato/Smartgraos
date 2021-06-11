@@ -153,7 +153,7 @@ Peso: 6g
 
 ![alt text](Imagens/Componentes/potenciometro-linear-10k.jpg)
 
-Cabos Jumper Premium Macho / Fêmea 20cm 40 vias
+# Cabos Jumper Premium Macho / Fêmea 20cm 40 vias
 
 # Descrição do Material
 
