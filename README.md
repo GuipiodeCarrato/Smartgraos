@@ -52,21 +52,22 @@ Tamanho: 100mm Largura x 65mm Profundidade x 5mm Altura
 
 ![alt text](https://github.com/GuipiodeCarrato/Smartgraos/blob/a763933bbea3d64b6b3f566f250bb1f23057896d/Imagens/Jumpers%20Macho-Macho.png)
 
-# Cabo USB 2.0 para Arduino UNO tipo A/B
+# Cabo Micro USB 1,2m Multilaser
 
 # Descrição do Material
 
-O Cabo USB é essencial para executar a programação da plataforma de prototipagem Arduino. Com a crescente utilização do Arduino nos projetos robóticos e de automação residencial, que precisa ser conectado ao computador para ser programado, e como em suas embalagens originais, na grande maioria das vezes, o cabo USB não é fornecido pelo Fabricante, disponibilizamos para venda do Cabo USB para Arduino. Mercado Livre(2021)
-O Cabo USB para Arduino é produzido em material de boa qualidade, o que propicia melhor conexão com o computador durante a programação. Mercado Livre(2021)
-Compatível com o Arduino Uno, Mega e Uno SMD, o Cabo USB para Arduino é o produto que vai lhe auxiliar essencialmente na programação do seu projeto Mercado Livre(2021)
+Cabo Micro USB 1,2m é ideal para conexão do seu smartphone, câmera digital, tablet, Arduino, Raspberry e outros dispositivos. Ideal para programação e transferência de dados entre o computador e dispositivos com conexão micro USB.(Figura 9). Filipeflop(2021).
 
 # Especificações Técnicas
 
-Conexão: USB A (M) x USB B (M)
-Comprimento do cabo: 30Cm
-Compatibilidade: Compatível com USB 1.1 e 2.0
+Cabo Micro USB
+Marca: Multilaser
+Conectores: USB x Micro USB
+Comprimento: 1,2m
+Peso: 30g
 
-![alt text](https://github.com/GuipiodeCarrato/Smartgraos/blob/a763933bbea3d64b6b3f566f250bb1f23057896d/Imagens/Cabo%20USB.png)
+
+![alt text](Imagens/Componentes/Cabo_Micro_USB_2.1.png)
 
 # Protoboard 830 Pontos MB-102 Solderless Breadboard
 
