@@ -31,7 +31,7 @@ Taxa de transferência: 110-460800bps
 Suporta Upgrade remoto de firmware
 Tamanho: 50mm Largura x 27mm Profundidade x 7mm Altura
 
-![alt text](Imagens/NodeMCU.png)
+![alt text](https://github.com/GuipiodeCarrato/Smartgraos/blob/5f6f5e1d8953b4c351a666ce63adb13e45bfebf1/Imagens/Componentes/NodeMCU.png)
 
 # Cabos Jumper Premium Macho / Macho
 
